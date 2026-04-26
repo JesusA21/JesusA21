@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-reynoso-romero-9b3238278/)
 
+[🇺🇸 English](#-about-me) | [🇲🇽 Español](#-sobre-mí)
+
 </div>
 
 ---
@@ -52,3 +54,40 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JesusA21&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 </div>
+
+---
+
+<div align="center">
+
+## 🇲🇽 Español
+
+</div>
+
+### 🧑‍💻 Sobre mí
+
+- 🔭 Desarrollador Full Stack enfocado en **backend**, trabajando en el rediseño del sitio web de una cadena hotelera con presencia en **Puerto Vallarta, Riviera Nayarit y Los Cabos**
+- ⚙️ Recientemente construí un servicio que evolucionó de un **Lambda** a un **servicio containerizado en AWS** — mapea datos del motor de reservas en nuestra BD, sincroniza con **StoryBlok** y alimenta endpoints de disponibilidad y precios en tiempo real
+- 🌱 Actualmente profundizando en **servicios de AWS** y arquitecturas cloud-native
+- 🏨 Experiencia integrando motores de reservas, headless CMS y construyendo APIs que reemplazan llamadas lentas a terceros con datos pre-mapeados
+
+---
+
+### 🛠️ Stack Tecnológico
+
+**Uso actualmente:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Usados anteriormente:**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![ASP](https://img.shields.io/badge/ASP-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+> También trabajé con protocolos **HL7** y **ASTM** para integración con analizadores de laboratorio
