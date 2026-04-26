@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-reynoso-romero-9b3238278/)
 
-[🇺🇸 English](#-about-me) | [🇲🇽 Español](#-sobre-mí)
-
 </div>
 
 ---
@@ -47,7 +45,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusA21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusA21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusA21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
