@@ -41,20 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusA21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusA21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JesusA21&theme=github-dark-blue&hide_border=true&background=0d1117)
-
-</div>
-
----
-
 <div align="center">
 
 ## 🇲🇽 Español
